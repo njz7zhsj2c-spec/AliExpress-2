@@ -1,1 +1,48 @@
-
+{
+  "users":[
+ { "id":1,
+   "name": "Eva",
+    "age": 68
+   "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPRI4pX5Vtw3dht2Blzpg6SZll9Ex0cXZqKmo873l4g&s=10"
+   "balance": 100,
+   "addres": "st.VillyPupkin, 27"
+   "email": "evakoroleva228@gmail.com",
+   "password": "67228EVa12"
+ }
+  
+  {
+   "id":2,
+   "name": "Andrii",
+    "age": 48
+   "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPRI4pX5Vtw3dht2Blzpg6SZll9Ex0cXZqKmo873l4g&s=10"
+   "balance": 100,
+   "addres": "st.VillyPupkin, 22"
+   "email": "dddsrrrff@gmail.com",
+   "password": "ddtgffjjjj23334"
+}
+]
+"product":[
+  {
+    "id":3,
+    "name":"orunge",
+    "photo": "https://img.magnific.com/free-psd/vibrant-whole-orange-with-single-green-leaf-stem-shown-against-solid-black-background_84443-62579.jpg?semt=ais_hybrid&w=740&q=80"
+    "price": "20"
+  }
+    ]
+}
+"product":[
+  {
+    "id":4,
+    "name":"mouse",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjR58CcAfbv195Csv1dCGRuhZ69lprnpZ_AxDI6iVTeQ&s=10"
+    "price": "100"
+  }
+    ]
+"product":[
+  {
+    "id":5,
+    "name":"apple",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzs6n5i_9aKk06d8lZru1BvmoLqELc7nm5tp0qPf8UA&s=10"
+    "price": "20"
+  }
+    ]
